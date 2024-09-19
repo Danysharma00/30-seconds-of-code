@@ -763,6 +763,8 @@ references:
     https://developer.mozilla.org/en-US/docs/Web/API/Element/removeAttribute
   CSSStyleDeclaration: >-
     https://developer.mozilla.org/en-US/docs/Web/API/CSSStyleDeclaration
+  CSSStyleDeclaration.setProperty(): >-
+    https://developer.mozilla.org/en-US/docs/Web/API/CSSStyleDeclaration/setProperty
   URL: https://developer.mozilla.org/en-US/docs/Web/API/URL
   EventTarget.addEventListener(): >-
     https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener
@@ -775,6 +777,8 @@ references:
     https://developer.mozilla.org/en-US/docs/Web/API/Node/appendChild
   EventTarget.dispatchEvent(): >-
     https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/dispatchEvent
+  Window.getSelection(): >-
+    https://developer.mozilla.org/en-US/docs/Web/API/Window/getSelection
   Window.matchMedia(): >-
     https://developer.mozilla.org/en-US/docs/Web/API/Window/matchMedia
   Window.requestAnimationFrame(): >-
@@ -839,12 +843,20 @@ references:
   Window.getComputedStyle(): >-
     https://developer.mozilla.org/en-US/docs/Web/API/Window/getComputedStyle
   HTMLElement.style: https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/style
+  HTMLElement.offsetTop: >-
+    https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/offsetTop
+  HTMLElement.offsetWidth: >-
+    https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/offsetWidth
+  HTMLElement.offsetParent: >-
+    https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/offsetParent
   Window.innerWidth: https://developer.mozilla.org/en-US/docs/Web/API/Window/innerWidth
   Window.scrollX: https://developer.mozilla.org/en-US/docs/Web/API/Window/scrollX
   Window.scrollY: https://developer.mozilla.org/en-US/docs/Web/API/Window/scrollY
   Element.clientWidth: https://developer.mozilla.org/en-US/docs/Web/API/Element/clientWidth
   Element.scrollLeft: https://developer.mozilla.org/en-US/docs/Web/API/Element/scrollLeft
   Element.scrollTop: https://developer.mozilla.org/en-US/docs/Web/API/Element/scrollTop
+  Element.getBoundingClientRect(): >-
+    https://developer.mozilla.org/en-US/docs/Web/API/Element/getBoundingClientRect
   Date(): >-
     https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/Date
   Intl.DateTimeFormat: >-
@@ -853,3 +865,7 @@ references:
     https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl/DateTimeFormat/DateTimeFormat
   Intl.DateTimeFormat.prototype.formatToParts(): >-
     https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl/DateTimeFormat/formatToParts
+  Selection: >-
+    https://developer.mozilla.org/en-US/docs/Web/API/Selection
+  Selection.toString(): >-
+    https://developer.mozilla.org/en-US/docs/Web/API/Selection/toString
